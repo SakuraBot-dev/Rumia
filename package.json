@@ -1,5 +1,5 @@
 {
-  "name": "suika",
+  "name": "rumia",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SakuraBot-dev/Suika.git"
+    "url": "git+https://github.com/SakuraBot-dev/Rumia.git"
   },
   "keywords": [
     "qqbot",
@@ -21,9 +21,9 @@
   "author": "TheresaQWQ",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/SakuraBot-dev/Suika/issues"
+    "url": "https://github.com/SakuraBot-dev/Rumia/issues"
   },
-  "homepage": "https://github.com/SakuraBot-dev/Suika#readme",
+  "homepage": "https://github.com/SakuraBot-dev/Rumia#readme",
   "devDependencies": {
     "@types/node": "^14.14.20",
     "@types/uuid": "^8.3.0",
